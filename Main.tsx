@@ -1,6 +1,6 @@
 import React from "react";
 import { AbsoluteFill, Audio, Sequence, staticFile } from "remotion";
-import { FinalFade, BgMesh, Grade, Grain, Vignette } from "./components/Layers";
+import { FinalFade, BgMesh, Grade, Grain, Vignette } from "./Layers";
 import { Particles } from "./components/Marine";
 import { Sfx } from "./components/Sfx";
 import { DepthScene } from "./scenes/DepthScene";
